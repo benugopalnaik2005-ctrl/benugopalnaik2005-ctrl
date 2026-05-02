@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Benugopal Naik 👋
 
 # 💫 About Me:
 🔹💻 I’m currently working on strengthening my programming skills and building meaningful projects  <br><br>🔹🤝 I’m looking to collaborate on innovative and beginner-friendly projects  <br><br>🔹🧩I’m looking for help with developing real-world applications and improving problem-solving skills  <br><br>🔹📚  I’m currently learning Java, Python, HTML, SQL, and Django framework  <br><br>🔹💬 Ask me about programming basics, my coding journey, or my B.Tech studies  <br><br>🔹⚡ Fun fact: I enjoy continuously learning and exploring new technologies 🚀
